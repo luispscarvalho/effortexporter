@@ -2,6 +2,6 @@
 github.user=USERNAME
 github.pass=PASSWORD
 # paths
-path.csv=/misc/workspace/doutorado/workspaces/rlang/der_codesmells/datasets/
+path.csv=/misc/workspace/doutorado/workspaces/research/effortprocessing/datasets/
 path.rep=/misc/workspace/doutorado/workspaces/repos/
 path.tmp=/misc/workspace/doutorado/workspaces/repos/temp
